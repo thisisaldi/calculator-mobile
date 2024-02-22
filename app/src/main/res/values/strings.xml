@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SimpleCalculator</string>
+    <string name="delete">DEL</string>
+    <string name="divide">/</string>
+    <string name="close_bracket">)</string>
+    <string name="open_bracket">(</string>
+</resources>
